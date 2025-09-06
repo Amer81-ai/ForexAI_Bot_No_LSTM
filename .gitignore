@@ -1,0 +1,4 @@
+# تجاهل المفاتيح الحساسة
+config.json
+__pycache__/
+*.pyc
